@@ -1,2 +1,2 @@
 # ibmtest
-testing ibm training course
+testing ibm/coursera training course
