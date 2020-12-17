@@ -1,3 +1,3 @@
 #echo
 
-print("hi")
+print("hello")
