@@ -1,0 +1,54 @@
+Report Structure
+	Cover page
+	Table of contents 
+	Executive Summary
+	Detailed contents
+	Acknowledgements
+	References
+	Apendices
+
+
+Report Structure
+	Cover page: 
+		Should be informative
+		title, authors afiliations and contact information
+		Institutional publisher if any 
+		Publication Date
+		
+	Table of contents 
+		Map with landmarks 
+		Main headings and lists of tables 
+		when doc is 5 or more pages
+		
+	Executive Summary or abstract
+		Even for short documents
+		Crux of arguments
+		
+	Introduction
+		new to topic
+		available research on the topic
+		influential authors
+		Gaps in existing knowledge
+		research questions and hypothesis
+		
+	Methodology 
+		
+	Results
+		empirical findings
+		statistics
+		charts
+		testing hypothesis
+	Discussion
+		Narrative to communicate thesis to readers
+		how findings provide new pieces of puzzle
+		
+	Conclussion
+		Generalize findings -> marketing approach to promote findings
+		
+	Detailed contents
+	
+		
+	Acknowledgements: housekeeping
+	References: housekeeping
+	Apendices: housekeeping
+	
